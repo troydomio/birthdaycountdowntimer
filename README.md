@@ -1,8 +1,9 @@
 # About The Project
 ![alt text](https://live.staticflickr.com/65535/51605158938_5d4ab01161_b.jpg)
 
-![alt text](https://live.staticflickr.com/65535/51605823710_4992c91dc8_b.jpg
-)
+![alt text](https://live.staticflickr.com/65535/51606036175_f85903115f_b.jpg)
+
+![alt text](https://live.staticflickr.com/65535/51605823710_4992c91dc8_b.jpg)
 
 
 
