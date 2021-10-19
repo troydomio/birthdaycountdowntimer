@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Birthday Countdown</title>
+    <link rel="stylesheet" href="style.css"/>
+    <script src="script.js" defer></script>
+</head>
+<body>
+   <div class="main-container">
+       <div class="user-bday-form">
+           <form id='form'>
+               <!-- <input type="date" id="date"> -->
+               <input type="text" id="day" placeholder="day (1-31)" required autocomplete="off" >
+               <input type="text" id="month" placeholder="month (1-12)"required autocomplete="off" >
+               <input type="text" id="year" placeholder="year (XXXX)" required autocomplete="off" >
+               <button id="button">enter</button>
+           </form>
+       </div>
+       <h1>Birthday <span>Countdown 🎂</span></h1>
+       <div class="bday-timer">
+       
+           <div class="days-container">
+               <div class="days-text">
+                   <p class="big-text" id='days'>0</p>
+                <span>days</span>
+            </div>
+            
+           </div>
+           <div class="hours-container">
+            <p class="big-text" id='hours'>0</p>
+            <span>hours</span>
+           </div>
+           <div class="minutes-container">
+            <p class="big-text" id='minutes'>0</p>
+            <span>minutes</span>
+           </div>
+           <div class="seconds-container">
+            <p class="big-text" id='seconds'>0</p>
+            <span>seconds</span>
+           </div>
+       </div>
+   </div>
+</body>
+</html>
